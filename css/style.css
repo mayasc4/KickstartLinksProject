@@ -2,13 +2,8 @@ html {
     background-color: #B4D3FF;
 }
 
-h1 {
+h1, h2 {
     color: #757A61;
-    text-align: center;
-}
-
-h2 {
-    color: darken(#757A61);
     text-align: center;
 }
 
