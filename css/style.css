@@ -1,12 +1,6 @@
-html {
-    background-color: #B4D3FF;
-}
 
-h1, h2 {
-    color: #757A61;
-    text-align: center;
-}
 
-section {
-    margin: 30px;
-}
+@import url("typography.css");
+@import url("layout.css");
+
+
